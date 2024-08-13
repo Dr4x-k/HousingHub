@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.housinghub.mobile-mergeDebugResources-59:/layout/frame_reservation_item.xml",
+        "source": "com.example.housinghub.mobile-main-62:/layout/frame_reservation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\fragment_available_reservations.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\fragment_available_reservations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\fragment_property_modal.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\fragment_property_modal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\fragment_reservations.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\fragment_reservations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\frame_reservation_item.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\frame_reservation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\fragment_my_houses.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\fragment_my_houses.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\fragment_canceled_reservations.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\fragment_canceled_reservations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\activity_signin.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\frame_property_item.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\frame_property_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\frame_notification_item.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\frame_notification_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-mergeDebugResources-59:\\layout\\fragment_reservation_modal.xml",
+        "source": "C:\\Users\\Home\\.gradle\\daemon\\8.6\\com.example.housinghub.mobile-main-62:\\layout\\fragment_reservation_modal.xml"
+    }
+]

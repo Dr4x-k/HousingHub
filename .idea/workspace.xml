@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="wearos_small_round" />
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/activity_home.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/activity_signin.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/activity_signup.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/fragment_available_reservations.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/fragment_canceled_reservations.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/fragment_home.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/fragment_my_houses.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/fragment_notifications.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/fragment_profile.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/fragment_property_modal.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/fragment_reservation_modal.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/fragment_reservations.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/frame_notification_item.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/frame_property_item.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/frame_reservation_item.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/menu/bottom_nav_menu.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/navigation/mobile_navigation.xml">
+        <config>
+          <theme>@style/Theme.HousingHub</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/wear/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@android:style/Theme.DeviceDefault</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/wear/src/main/res/layout/frame_reservation_item.xml">
+        <config>
+          <theme>@android:style/Theme.DeviceDefault</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7e88b55-c513-4712-8a85-fffc63bd538d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\Home\.android\avd\Pixel_3a_API_30.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2kLuS8tnrfa5FgmL0bc9WhHJqsS" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.mobile.executor&quot;: &quot;Run&quot;,
+    &quot;Android App.wear.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/jabe/HousingHub/HousingHub&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;C:\\Users\\Home\\.gradle&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jabe4\AndroidStudioProjects\HousingHub\mobile\src\main\res\layout" />
+    </key>
+    <key name="android.template.-222092807">
+      <recent name="com.example.housinghub" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jabe4\AndroidStudioProjects\HousingHub\mobile\src\main\res\drawable" />
+    </key>
+    <key name="android.template.-924238610">
+      <recent name="com.example.housinghub.ui.reservation_modal" />
+      <recent name="com.example.housinghub.ui.reservations" />
+      <recent name="com.example.housinghub.ui" />
+      <recent name="com.example.housinghub" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.housinghub.ui.notifications" />
+      <recent name="com.example.housinghub" />
+      <recent name="com.example.housinghub.ui.myhouses" />
+    </key>
+    <key name="android.template.430824729">
+      <recent name="com.example.housinghub" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.data.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.mobile">
+    <configuration name="wear.MainComplicationService" type="AndroidComplicationConfigurationType" factoryName="AndroidComplicationConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="HousingHub.wear" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <LaunchOptions>
+        <option name="chosenSlots">
+          <list />
+        </option>
+        <option name="componentName" value="com.example.housinghub.complication.MainComplicationService" />
+      </LaunchOptions>
+      <DeployOptions>
+        <option name="pmInstallFlags" value="" />
+      </DeployOptions>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mobile" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="HousingHub.mobile.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wear" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="HousingHub.wear.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wear.MainTileService" type="AndroidTileConfigurationType" factoryName="AndroidTileConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="HousingHub.wear" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <LaunchOptions>
+        <option name="componentName" value="com.example.housinghub.tile.MainTileService" />
+      </LaunchOptions>
+      <DeployOptions>
+        <option name="pmInstallFlags" value="" />
+      </DeployOptions>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7e88b55-c513-4712-8a85-fffc63bd538d" name="Changes" comment="" />
+      <created>1723075175019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723075175019</updated>
+    </task>
+    <servers />
+  </component>
+</project>

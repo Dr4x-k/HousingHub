@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PropertyModalFragment">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Agregar propiedad"
+            android:textSize="26sp"
+            android:gravity="center"
+            android:layout_marginVertical="16dp"/>
+
+        <EditText
+            android:id="@+id/txtTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Título"
+            android:padding="16dp"
+            android:textColor="#000000"
+            android:textColorHint="#000000" />
+
+        <EditText
+            android:id="@+id/txtDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Descripción"
+            android:padding="16dp"
+            android:textColor="#000000"
+            android:textColorHint="#000000" />
+
+        <EditText
+            android:id="@+id/txtLocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Locación"
+            android:padding="16dp"
+            android:textColor="#000000"
+            android:textColorHint="#000000" />
+
+        <EditText
+            android:id="@+id/txtPriceNight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Precio por noche"
+            android:inputType="numberDecimal"
+            android:padding="16dp"
+            android:textColor="#000000"
+            android:textColorHint="#000000" />
+
+        <EditText
+            android:id="@+id/txtMaxGuests"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Huespedes máximos"
+            android:inputType="number"
+            android:padding="16dp"
+            android:textColor="#000000"
+            android:textColorHint="#000000" />
+
+        <Button
+            android:id="@+id/btnAddProperty"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Guardar" />
+
+
+    </LinearLayout>
+</FrameLayout>
